@@ -1,0 +1,6 @@
+{
+    "extends": "@preto/ts-config/base.json",
+    "include": [
+        "src"
+    ]
+}

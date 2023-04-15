@@ -1,5 +1,5 @@
 {
-  "name": "@preto-na-gringa-ui/tokens",
+  "name": "@preto-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,9 +14,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@preto-na-gringa-ui/tokens": "*",
     "@preto/ts-config": "*",
     "@preto-ui/eslint-config": "*",
     "tsup": "^6.7.0",
-    "typescript": "^5.0.2"
+    "typescript": "^5.0.4"
   }
 }
